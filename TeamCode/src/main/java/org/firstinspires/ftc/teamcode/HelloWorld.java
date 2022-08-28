@@ -1,2 +1,6 @@
-package org.firstinspires.ftc.teamcode;public class HelloWorld {
+package org.firstinspires.ftc.teamcode;
+
+public class HelloWorld {
+    int a = 5;
+
 }
